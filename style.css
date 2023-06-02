@@ -7,11 +7,7 @@ body {
  
 }
 
-:root {
-    --fonte1: verdana, Geneva, Tahoma, sans-serif;
-    --fonte2: font-family: 'Passion One', cursive;
-    --fonte3: font-family: 'Montserrat', sans-serif;
-}
+
 
 
 .cabeça {
@@ -54,7 +50,22 @@ body {
 }
 
 .p4 {
-    font-size: 3em;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    font-size: 4em;
+    font-size: cover ;
+    background-attachment: fixed;
+    background-image: url('imagens/background002.jpg');
+   
+
+}
+.img1 {
+    background-color: rgba(0, 0, 0, 0.795);
+    font-size: 2em;
+    display: block;
+    margin: -20px -20px -20px -20px;
+    padding: 50px 30px 20px 60px; 
+
 
 }
 
